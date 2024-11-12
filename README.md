@@ -78,12 +78,12 @@ tzdata==2024.2
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd network-packet-routing
+cd DRL_SDN
 ```
 
 2. Create and activate a virtual environment (optional but recommended):
 ```bash
-python -m venv venv
+virtualenv venv -p python3
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 

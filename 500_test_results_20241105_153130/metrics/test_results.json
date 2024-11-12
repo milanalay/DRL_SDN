@@ -1,0 +1,33 @@
+{
+    "processed_packets": 228,
+    "rejected_packets": 272,
+    "acceptance_rate": 0.456,
+    "server_assignments": {
+        "server_1": 15,
+        "server_2": 203,
+        "server_3": 10
+    },
+    "final_server_loads": {
+        "server_1": 28.13837187122322,
+        "server_2": 42.60933386965164,
+        "server_3": 25.36083829423386
+    },
+    "average_balance_score": 0.7479091963868335,
+    "server_utilization_stats": {
+        "server_1": {
+            "mean_load": 25.65254413329174,
+            "max_load": 28.13837187122322,
+            "min_load": 0.05091051518807143
+        },
+        "server_2": {
+            "mean_load": 37.024797503491335,
+            "max_load": 42.60933386965164,
+            "min_load": 0.0
+        },
+        "server_3": {
+            "mean_load": 22.866795551156443,
+            "max_load": 25.36083829423386,
+            "min_load": 0.0
+        }
+    }
+}
